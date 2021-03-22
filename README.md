@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bysiuxvx
-- 👀 I’m interested in sci-fi, horror - both movies and books. Also music, mainly metal and punk.
+- 👀 I’m interested in sci-fi, horror - both movies and books. Also music, mainly non-mainstream metal and subgenres of punk.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
