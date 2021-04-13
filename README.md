@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patryk
 - 👀 I’m interested in sci-fi, horror - both movies and books. Also music, mainly non-mainstream metal and subgenres of punk.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React, which takes most of my free time.
 - 🐶 Yes, that's my dog in my profile pic. His name is Winyl.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
